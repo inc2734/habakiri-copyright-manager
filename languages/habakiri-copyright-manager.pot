@@ -1,0 +1,52 @@
+# Copyright (C) 2015 Habakiri Copyright Manager
+# This file is distributed under the same license as the Habakiri Copyright Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Habakiri Copyright Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/habakiri-copyright-"
+"manager\n"
+"POT-Creation-Date: 2015-07-19 10:17:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/options-habakiri-copyright-manager.php:19
+#: classes/options-habakiri-copyright-manager.php:20
+#: classes/options-habakiri-copyright-manager.php:55
+msgid "Copyright Setting"
+msgstr ""
+
+#: classes/options-habakiri-copyright-manager.php:61
+msgid "Copyright text"
+msgstr ""
+
+#: classes/options-habakiri-copyright-manager.php:65
+msgid "html is escaped."
+msgstr ""
+
+#: classes/options-habakiri-copyright-manager.php:71
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Habakiri Copyright Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/inc2734/habakiri-copyright-manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "You can setting copyright text on Habakiri theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Takashi Kitajima"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://2inc.org"
+msgstr ""
