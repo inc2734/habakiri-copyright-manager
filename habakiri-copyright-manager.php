@@ -3,11 +3,11 @@
  * Plugin Name: Habakiri Copyright Manager
  * Plugin URI: https://github.com/inc2734/habakiri-copyright-manager
  * Description: You can setting copyright text on Habakiri theme.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Takashi Kitajima
  * Author URI: http://2inc.org
  * Created : June 19, 2015
- * Modified: 
+ * Modified: September 14, 2015
  * Text Domain: habakiri-copyright-manager
  * Domain Path: /languages/
  * License: GPLv2 or later
@@ -16,7 +16,7 @@
 include_once( plugin_dir_path( __FILE__ ) . 'classes/class.config.php' );
 include_once( plugin_dir_path( __FILE__ ) . 'classes/options-habakiri-copyright-manager.php' );
 include_once( plugin_dir_path( __FILE__ ) . 'classes/class.github-updater.php' );
-new habakiri_Plugin_GitHub_Updater( 'habakiri-copyright-manager', __FILE__, 'inc2734' );
+new Habakiri_Plugin_GitHub_Updater( 'habakiri-copyright-manager', __FILE__, 'inc2734' );
 
 class Habakiri_Copyright_Manager {
 
