@@ -3,8 +3,8 @@ Contributors: inc2734
 Donate link: http://www.amazon.co.jp/registry/wishlist/39ANKRNSTNW40
 Tags: plugin, copyright
 Requires at least: 4.1
-Tested up to: 4.3.0
-Stable tag: 1.0.3
+Tested up to: 4.5.3
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,9 @@ https://github.com/inc2734/habakiri-copyright-manager/
 1. You can setting in Settings > Copyright
 
 == Changelog ==
+
+= 1.1.0 =
+* Fixed a bug Habakiri_Plugin_GitHub_Updater
 
 = 1.0.3 =
 * Update Habakiri_Plugin_GitHub_Updater
